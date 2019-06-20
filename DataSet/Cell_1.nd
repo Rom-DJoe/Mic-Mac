@@ -1,0 +1,17 @@
+"NDInfoFile", Version 1.0
+"Description", ""
+"DoTimelapse", FALSE
+"DoStage", FALSE
+"DoWave", TRUE
+"NWavelengths", 4
+"WaveName1", "DIC Camera"
+"WaveDoZ1", FALSE
+"WaveName2", "DSRED Camera"
+"WaveDoZ2", FALSE
+"WaveName3", "GFPClassic Camera"
+"WaveDoZ3", FALSE
+"WaveName4", "DAPI camera"
+"WaveDoZ4", FALSE
+"DoZSeries", FALSE
+"WaveInFileName", TRUE
+"EndFile"
