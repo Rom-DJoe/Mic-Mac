@@ -1,4 +1,4 @@
-// Done by RLB @ Imagerie-Gif 2016
+// Done by RLB @ Imagerie-Gif 2018
 // romain.lebars@i2bc.paris-saclay.fr
 // Optimized for ImageJ v 1.51i
 
@@ -239,7 +239,8 @@ run("Line Width...", "line=1");
 setForegroundColor(255, 255, 255);
 
 P = m / NbChannels; 
-
+
+
 showMessage("Yippee Kayay!","Job Done!  "+P+" Files Processed!");
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
