@@ -8,8 +8,6 @@ The macro will allow the detection of nuclei (automatically, semi-automatically 
 
 -Each channel has to be an independent .tif file (it cannot be a stacked file).
 
--If a .ND file is present the name of the acquisition will be the one of this file. If not: you will be asked to type a file name.
-
 -Then you have to specify in which order the channels are sorted in the folder.
 
 -For each acquisition an automatic detection is first performed (using a combination of the red and green channels).
@@ -22,6 +20,6 @@ The macro will allow the detection of nuclei (automatically, semi-automatically 
 
 -If the acquisition is not compatible with this detection, you can skip this acquisition at any time.
 
--As a result: a map is saved were you can check your regions around the nuclei and also the regions used to measure the background.
+-As a result: a "*_Map.tif" image is saved where you can check your regions drawn around the nuclei and also the regions used to measure the background.
 
 -A .csv file is created with the file name and the mean fluorescence intensity of each region.
