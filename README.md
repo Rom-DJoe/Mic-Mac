@@ -1,7 +1,7 @@
 # Mic-Mac
 Automatic Detection of Nuclei in Paramecium
 
-This macro works on a folder containing multiple channel acquisitions (see dataset folder).
+This macro works on a folder containing multiple channels acquisitions (see dataset folder).
 The macro will allow the detection of nuclei (automatically, semi-automatically of fully manually) and quantifies the fluorescence in both the red and green channels.
 
 -First you have to specify how many channels you have in your acquisition (from 1 to 4).
